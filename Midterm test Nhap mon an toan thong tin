@@ -1,0 +1,15 @@
+Câu 1 : Trình bày 3 hệ mật có độ mật cao nhất, giải thích . Có thể tạo ra các phiên bản hiện đại của hệ mật này không ? Cho 1 đề xuất với mỗi hệ mật
+
+
+
+Câu 2 : Trình bày hệ mật Elgamal, viết sơ đồ chữ kí với p = 89
+a , Tìm 3 pt nguyên thủy
+b, Chọn 1 ptnt > 50, a = ngày sinh + 26, k = tháng sinh + 30, xác định khóa ck, khóa bí mật, mã hóa, giải mã, kí trên bản tin x = tên sv
+c, Như a/c biết thì trong thực tế ngày nay, số nguyên tố đc sd có bao nhiêu bit và sơ đồ chữ kí Elgamal đang đc áp dụng ở đâu
+
+
+
+
+Câu 3 : Cho đg cong eliptic y² = x³ + ax + b , a = số cuối ngày sinh +1, b = số cuối tháng sinh +2
+Duy đã gửi Hôm nay lúc 09:57
+a. Xác định sơ đồ ck EC Elgamal, d = số cuối ngày sinh +6, k = cuối tháng sinh +3
